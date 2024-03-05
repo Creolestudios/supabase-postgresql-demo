@@ -44,9 +44,9 @@ For Frontend.
 
 > npm run dev
 
-Build & Deploy
+# Build & Deploy
 
-# Create frontend prod build
+Create frontend prod build
 
 > npm run build
 
